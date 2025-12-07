@@ -9,7 +9,7 @@ import Explore from './pages/Explore'
 import Messages from './pages/Messages'
 import Notifications from './pages/Notifications'
 import Settings from './pages/Settings'
-import Layout from './components/layout/Layout'
+import Layout from './components/layout/layout'
 import PrivateRoute from './components/auth/PrivateRoute'
 
 const queryClient = new QueryClient()
